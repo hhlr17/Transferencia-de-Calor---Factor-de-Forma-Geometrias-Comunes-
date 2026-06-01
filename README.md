@@ -8,5 +8,5 @@ paralelasplanas(x,y,l), correspondiente a placas planas paralelas concentricas(r
 perpendicular(x,y,z), plascas planas perpendiculares con una arista en comun(rectangulares o cuadradas), reemplazar x,y,z por los valores numericos correspondientes
 <img width="1007" height="765" alt="image" src="https://github.com/user-attachments/assets/e34be7be-291b-43bb-9c68-f29376f6d592" />
 
-discparalecoax(ri,rj,l), discos paralelos coaxiales (mismos o diferentes radios), reemplazar x,y,z por los valores numericos correspondientes
+discparalecoax(ri,rj,l), discos paralelos coaxiales (mismos o diferentes radios), reemplazar ri,rj,l por los valores numericos correspondientes
 <img width="1012" height="761" alt="image" src="https://github.com/user-attachments/assets/d8ccc36e-6778-48ee-8a71-3ffe780b290c" />
